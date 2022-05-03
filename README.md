@@ -1,1 +1,1 @@
-# odin-recipes
+The purpose of this project is to demonstrate the very fundamental HTML skills I have picked up while learning with The Odin Project (TOP). 
